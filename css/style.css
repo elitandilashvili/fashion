@@ -1,0 +1,154 @@
+.bg-photo{
+	background-image:url(../image/cover.jpg);
+	width:100%;
+	height:450px;
+	margin-right:auto;
+	margin-left:auto;
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+}
+
+
+
+.bazaar{
+	font-size:25px;
+	color: #000000
+	margin-left:5px;
+	margin-top:10px;
+	text-shadow: 0 0 3px #000000;
+	font-family: 'Newsreader', serif;
+	animation: fashionbazaar 5s infinite;
+	animation-timing-function: linear
+}
+
+ @keyframes fashionbazaar{
+ 	0%{transform:translateX(15px);}
+ 	25%{transform:translateX(50px);}
+ 	50%{transform:translateX(65px);}
+ 	100%{transform:translateX(80px);}
+ }
+
+
+
+	
+	
+	
+.h1{
+	font-family: 'GFS Didot', serif;
+	font-size:40px;
+	color:#000000;
+	margin-top:50px;
+	margin-left:250px;
+	text-shadow: 0 0 3px #000000;
+}
+
+.h2{
+	font-size:20px;
+	color:#000000;
+	margin-left:310px;
+	margin-top:20px;
+	
+}
+
+.olga-image{
+	background-image:url(../image/olga.jpg);
+	width:360px;
+	height:500px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	opacity:0.5;
+	 border-radius: 15px;
+
+}
+.olga-image:hover{
+	opacity:1.0;
+}
+.name-1{
+	font-size:40px;
+	color: #000000;
+	font-family: 'Lobster', cursive;
+	margin-bottom:15px;
+	margin-top:15px;
+
+}
+.bloger-1{
+	float:left;
+	padding-left:140px;}
+ 
+
+
+ .anna-image{
+	background-image:url(../image/anna.jpg);
+	width:360px;
+	height:500px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	 border-radius: 15px;
+	
+
+
+}
+
+
+.bloger-2{
+	float:left;
+	margin-left:280px;
+}
+
+	.Sophia-image{
+	background-image:url(../image/sofia.jpg);
+	width:360px;
+	height:500px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	 border-radius: 15px;
+	
+
+}
+
+
+
+.bloger-3{
+	float:left;
+	padding-left:140px;
+}
+
+.fong-image{
+	background-image:url(../image/fong.jpg);
+	width:360px;
+	height:500px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	opacity:0.5;
+	border-radius: 15px;
+
+
+
+}
+
+.fong-image:hover{
+	opacity:1.0;
+
+}
+
+
+.bloger-4{
+	float:left;
+	margin-left:280px;
+
+}
+
+.color{
+	background-color:#dfbc9f;
+}
+
+
+
+
+
+
+
+
+
+
